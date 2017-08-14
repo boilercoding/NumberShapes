@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Number Shapes</string>
+    <string name="submit">submit</string>
 </resources>
